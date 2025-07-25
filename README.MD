@@ -83,3 +83,34 @@ export $initHighlight;
 ```
 
 # Tablas
+| Nombre | Apellido | Documento |
+| ------ | -------- | --------- |
+Juan | Nizama | 88888888 |
+Jose | Ramos | 99999999 |
+
+# Citas
+Esto es un texto referente a una cita que podremos debajo:
+> Esto es una cita.
+
+Esto es otro texto que no se relaciona con la cita anterior:
+> Esto es otra cita.
+
+# Lineas divisoras
+Esto es un texto que sera dividido por guiones medios.
+
+---
+Esti es otro texto dividido por asteriscos.
+
+***
+
+Esti es otro texto dividido por guiones bajos.
+
+___
+
+# Saltos de linea
+Esto es nuestro primer parrafo.
+
+Esto es nuestro segunfo parrafo.
+
+Esto es nuestro tercer parrafo.
+- Lista
