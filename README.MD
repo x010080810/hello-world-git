@@ -81,3 +81,5 @@ function $initHighlight(block, cls) {
 
 export $initHighlight;
 ```
+
+# Tablas
